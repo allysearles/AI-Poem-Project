@@ -3,3 +3,7 @@ body {
 	color: blueviolet;
 	text-align: center;
 }
+footer a {
+	color: white;
+	filter: brightness(67%);
+}
