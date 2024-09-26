@@ -21,7 +21,7 @@ h1 {
 }
 footer {
 	font-size: 12px;
-	padding: 30px 0px;
+	padding: 20px 0px;
 	color: blueviolet;
 	margin: 0 auto;
 	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -71,6 +71,7 @@ form {
 	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .poem {
+	padding-top: 20px;
 	padding-bottom: 20px;
 	color: limegreen;
 	filter: brightness(67%);
@@ -86,7 +87,7 @@ form {
 }
 .generating {
 	animation: blink-animation 1s steps(5, start) infinite;
-	padding-top: 10px;
+	padding-top: 30px;
 }
 
 @keyframes blink-animation {
