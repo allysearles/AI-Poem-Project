@@ -38,12 +38,14 @@ form {
 	padding: 30px;
 	background-color: rgba(148, 62, 228, 0.166);
 	filter: brightness(75%);
+
 	border-radius: 8px;
 }
 .instructions {
 	padding: 15px;
 	border-radius: 25px;
 	width: 80%;
+
 	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .submit {
