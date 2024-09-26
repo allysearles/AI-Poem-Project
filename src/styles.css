@@ -37,7 +37,7 @@ form {
 	display: flex;
 	padding: 30px;
 	background-color: rgba(148, 62, 228, 0.166);
-	filter: brightness(75%);
+	filter: brightness(70%);
 
 	border-radius: 8px;
 }
@@ -50,20 +50,23 @@ form {
 }
 .submit {
 	margin-left: 5px;
-
+	font-size: 16px;
 	padding: 10px;
 	border-radius: 25px;
 	width: 20%;
 	background-color: rgb(251, 113, 0);
-	color: white;
-	font-weight: 700;
+	color: black;
+	font-weight: 800;
 	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .poem {
 	padding: 20px;
 	color: limegreen;
 	filter: brightness(67%);
-	font-size: 16px;
+	font-size: 18px;
 	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 	line-height: 30px;
+}
+#poem strong {
+	color: rgb(251, 113, 0);
 }
